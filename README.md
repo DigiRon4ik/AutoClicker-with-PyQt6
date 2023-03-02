@@ -22,7 +22,7 @@
 
 ---
 
-### Screenshot:
-<img src="https://i.ibb.co/FXGPMRx/Main-Window.png" alt="MainWindow" border="0">
+### Screenshots:
+<a href="https://ibb.co/8bFhp1K"><img src="https://i.ibb.co/FXGPMRx/Main-Window.png" alt="MainWindow" border="0"></a>
 
 ---
