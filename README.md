@@ -1,6 +1,28 @@
-# AutoClicker-with-PyQt6
-AutoClicker with PyQt6 with the ability to bind launch and select a button for clicks.
+<h1 align="center">Hotel Management System SQLite</h1>
+<h3 align="center">AutoClicker with PyQt6 with the ability to bind launch and select a button for clicks.</h3>
+<p align="center">Python and PyQt6 to .exe</p>
+
+
 ---
-If you only need the application, download the .exe
+
+### — _Framework:_
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
 ---
-And if you want to change the program - download the source folder.
+
+- #### _Packages:_
+    - pynput
+
+---
+
+> ### How to Use:
+> If you only need the application, download the .exe
+>
+> Or if you want to change the program - download the source folder.
+
+---
+
+### Screenshot:
+<img src="https://i.ibb.co/FXGPMRx/Main-Window.png" alt="MainWindow" border="0">
+
+---
