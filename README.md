@@ -1,4 +1,4 @@
-<h1 align="center">Hotel Management System SQLite</h1>
+<h1 align="center">AutoClicker with PyQt6</h1>
 <h3 align="center">AutoClicker with PyQt6 with the ability to bind launch and select a button for clicks.</h3>
 <p align="center">Python and PyQt6 to .exe</p>
 
